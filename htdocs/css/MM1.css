@@ -1,0 +1,63 @@
+body
+{
+background-color:white;
+text-align:left;
+}
+h1
+{
+color:orange;
+text-align:left;
+}
+p
+{
+font-family:"Arial";
+font-size:10px;
+}
+a
+{
+font-family:"Arial";
+font-size:12px;
+}
+a:link { color: blue; }
+a:visited { color: blue; }
+a:hover { color: green; font-style: italic;}
+/* p:hover { color: green; font-style: italic;} */
+form
+{
+color:gray;
+text-align:left;
+font-family:"Arial";
+font-size:12px;
+}
+pre
+{
+text-align:left;	
+}
+
+#footCopyright
+{
+color:lightgray;
+font-family:"Arial";
+font-size:10px;
+}
+#footMM
+{
+color:gray;
+font-family:"Arial";
+font-size:15px;
+font-weight:Bold;
+}
+#footUScore
+{
+color:red;
+font-family:"Arial";
+font-size:15px;
+font-weight:Bold;
+}
+#footTech
+{
+color:gray;
+font-family:"Earwig Factory";
+font-size:30px;
+}
+#footTech:hover { color: red; font-style: italic;}
